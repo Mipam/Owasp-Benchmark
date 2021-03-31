@@ -635,7 +635,7 @@ But it requires getting all the Log4j2 stuff configured right, and haven't done 
 		<dependency>
 			<groupId>com.google.guava</groupId>
 			<artifactId>guava</artifactId>
-			<version>25.1-jre</version>
+			<version>29.0-jre</version>
 		</dependency>
 
 		<dependency>
